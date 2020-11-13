@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.html
+*.xml
+/env
+.DS_Store
